@@ -1,5 +1,5 @@
 # QuizzApp
-QuizzApp
+Group Project - SDP
 
 
 # Nothing to see here
