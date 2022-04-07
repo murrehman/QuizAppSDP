@@ -4,6 +4,8 @@ Group Project - SDP
 
 # Nothing to see here
 
+Initialization: node ./bin/www
+
 
 ## To create a new migration file use the following command:
 
