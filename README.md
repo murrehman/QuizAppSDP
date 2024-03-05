@@ -1,5 +1,5 @@
 # QuizzApp
-Group Project - SDP
+Make sure MySql server is running, you can use xamp
 
 
 # Nothing to see here
